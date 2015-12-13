@@ -1,0 +1,26 @@
+.grid {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(158, 158, 158);
+  display: inline-block;
+}
+
+.container {
+  width: 800px;
+  margin: 80px auto;
+}
+
+.row {
+  width: 480px;
+  height: 30px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+button {
+  margin: 0 auto;
+  margin-top: 50px;
+}
